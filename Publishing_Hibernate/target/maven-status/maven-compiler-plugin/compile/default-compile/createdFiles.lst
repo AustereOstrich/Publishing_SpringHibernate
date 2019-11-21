@@ -1,0 +1,14 @@
+com/matthewharrop/part1assignment4/domain/Category.class
+com/matthewharrop/part1assignment4/domain/Book.class
+com/matthewharrop/part1assignment4/app/FindingBooksWithAuthorIds.class
+com/matthewharrop/part1assignment4/app/DeleteBookApp.class
+com/matthewharrop/part1assignment4/dao/CategoryDao.class
+com/matthewharrop/part1assignment4/config/AppConfig.class
+com/matthewharrop/part1assignment4/app/FindingBooksWithAuthorAndCategoryApp.class
+com/matthewharrop/part1assignment4/dao/BooksDao.class
+com/matthewharrop/part1assignment4/app/FindingBooksWithAuthorAndCategoryByIdApp.class
+com/matthewharrop/part1assignment4/app/CreateBookApp.class
+com/matthewharrop/part1assignment4/app/FindingBooksHibernateApp.class
+com/matthewharrop/part1assignment4/domain/Author.class
+com/matthewharrop/part1assignment4/dao/BooksDaoImpl.class
+com/matthewharrop/part1assignment4/dao/CategoryDaoImpl.class
